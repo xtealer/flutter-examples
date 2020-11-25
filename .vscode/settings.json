@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "**/.project": true,
+    "**/.settings": true
+  }
+}
